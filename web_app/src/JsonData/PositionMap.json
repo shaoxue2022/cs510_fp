@@ -1,0 +1,9 @@
+{
+    "G": "Guard",
+    "F-G": "Forward-Guard",
+    "F": "Forward",
+    "G-F": "Guard-Forward",
+    "C": "Center",
+    "C-F": "Center-Forward",
+    "F-C": "Forward-Center"
+}

@@ -1,0 +1,54 @@
+.Search {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background-color: darkorange;
+    margin: 0 auto;
+    width: 700px;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 500px;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+.InputWrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.SearchInput {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 35px;
+    padding: .375rem .75rem;
+    font-size: 17px;
+}
+
+.SelectWrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.TimeframeSelect {
+    position: relative;
+    display: inline-block;
+    width: 75%;
+    height: 35px;
+    padding: .375rem .75rem;
+    font-size: 17px;
+}
+
+.SortWrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.SortAsc {
+    padding-right: 25px;
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "Player": "tatum",
+        "cur_Pos%": 49.11,
+        "1wk_Pos%": 50.85,
+        "2wk_Pos%": 51.0,
+        "1mth_Pos%": 51.35,
+        "2mth_Pos%": 51.19,
+        "full_Pos%": 51.0
+    },
+    {
+        "Player": "giannis",
+        "cur_Pos%": 51.56,
+        "1wk_Pos%": 52.38,
+        "2wk_Pos%": 51.5,
+        "1mth_Pos%": 52.74,
+        "2mth_Pos%": 53.87,
+        "full_Pos%": 54.37
+    },
+    {
+        "Player": "steph curry",
+        "cur_Pos%": 44.89,
+        "1wk_Pos%": 46.69,
+        "2wk_Pos%": 47.62,
+        "1mth_Pos%": 46.17,
+        "2mth_Pos%": 46.58,
+        "full_Pos%": 47.34
+    },
+    {
+        "Player": "durant",
+        "cur_Pos%": 31.56,
+        "1wk_Pos%": 35.46,
+        "2wk_Pos%": 35.38,
+        "1mth_Pos%": 36.52,
+        "2mth_Pos%": 38.68,
+        "full_Pos%": 38.37
+    },
+    {
+        "Player": "lebron",
+        "cur_Pos%": 47.44,
+        "1wk_Pos%": 52.15,
+        "2wk_Pos%": 54.06,
+        "1mth_Pos%": 51.91,
+        "2mth_Pos%": 49.42,
+        "full_Pos%": 47.8
+    },
+    {
+        "Player": "jokic",
+        "cur_Pos%": 45.0,
+        "1wk_Pos%": 41.38,
+        "2wk_Pos%": 41.12,
+        "1mth_Pos%": 40.52,
+        "2mth_Pos%": 42.32,
+        "full_Pos%": 42.89
+    },
+    {
+        "Player": "luka",
+        "cur_Pos%": 56.0,
+        "1wk_Pos%": 56.92,
+        "2wk_Pos%": 59.38,
+        "1mth_Pos%": 62.3,
+        "2mth_Pos%": 63.19,
+        "full_Pos%": 62.37
+    },
+    {
+        "Player": "james harden",
+        "cur_Pos%": 61.22,
+        "1wk_Pos%": 58.92,
+        "2wk_Pos%": 57.94,
+        "1mth_Pos%": 56.61,
+        "2mth_Pos%": 56.84,
+        "full_Pos%": 56.77
+    },
+    {
+        "Player": "lillard",
+        "cur_Pos%": 56.33,
+        "1wk_Pos%": 51.38,
+        "2wk_Pos%": 50.62,
+        "1mth_Pos%": 50.04,
+        "2mth_Pos%": 52.81,
+        "full_Pos%": 53.06
+    },
+    {
+        "Player": "embiid",
+        "cur_Pos%": 51.0,
+        "1wk_Pos%": 47.31,
+        "2wk_Pos%": 47.69,
+        "1mth_Pos%": 47.09,
+        "2mth_Pos%": 47.68,
+        "full_Pos%": 47.83
+    },
+    {
+        "Player": "kawhi",
+        "cur_Pos%": 59.44,
+        "1wk_Pos%": 53.38,
+        "2wk_Pos%": 53.69,
+        "1mth_Pos%": 49.09,
+        "2mth_Pos%": 48.03,
+        "full_Pos%": 46.57
+    },
+    {
+        "Player": "anthony davis",
+        "cur_Pos%": 54.67,
+        "1wk_Pos%": 54.15,
+        "2wk_Pos%": 52.38,
+        "1mth_Pos%": 50.0,
+        "2mth_Pos%": 48.77,
+        "full_Pos%": 46.89
+    },
+    {
+        "Player": "jimmy butler",
+        "cur_Pos%": 50.89,
+        "1wk_Pos%": 48.46,
+        "2wk_Pos%": 49.31,
+        "1mth_Pos%": 49.61,
+        "2mth_Pos%": 52.1,
+        "full_Pos%": 53.6
+    },
+    {
+        "Player": "paul george",
+        "cur_Pos%": 54.22,
+        "1wk_Pos%": 54.31,
+        "2wk_Pos%": 55.5,
+        "1mth_Pos%": 53.43,
+        "2mth_Pos%": 53.35,
+        "full_Pos%": 54.29
+    },
+    {
+        "Player": "kyrie",
+        "cur_Pos%": 49.89,
+        "1wk_Pos%": 44.77,
+        "2wk_Pos%": 49.0,
+        "1mth_Pos%": 49.0,
+        "2mth_Pos%": 48.0,
+        "full_Pos%": 48.91
+    },
+    {
+        "Player": "zion williamson",
+        "cur_Pos%": 53.67,
+        "1wk_Pos%": 50.46,
+        "2wk_Pos%": 49.19,
+        "1mth_Pos%": 47.26,
+        "2mth_Pos%": 45.77,
+        "full_Pos%": 44.71
+    },
+    {
+        "Player": "bradley beal",
+        "cur_Pos%": 63.89,
+        "1wk_Pos%": 56.46,
+        "2wk_Pos%": 52.56,
+        "1mth_Pos%": 45.3,
+        "2mth_Pos%": 45.77,
+        "full_Pos%": 46.69
+    },
+    {
+        "Player": "trae young",
+        "cur_Pos%": 42.22,
+        "1wk_Pos%": 46.77,
+        "2wk_Pos%": 51.12,
+        "1mth_Pos%": 55.13,
+        "2mth_Pos%": 57.19,
+        "full_Pos%": 54.31
+    },
+    {
+        "Player": "donovan mitchell",
+        "cur_Pos%": 49.78,
+        "1wk_Pos%": 50.08,
+        "2wk_Pos%": 50.12,
+        "1mth_Pos%": 46.57,
+        "2mth_Pos%": 48.0,
+        "full_Pos%": 46.51
+    },
+    {
+        "Player": "chris paul",
+        "cur_Pos%": 51.0,
+        "1wk_Pos%": 49.92,
+        "2wk_Pos%": 49.5,
+        "1mth_Pos%": 50.13,
+        "2mth_Pos%": 50.97,
+        "full_Pos%": 50.34
+    }
+]

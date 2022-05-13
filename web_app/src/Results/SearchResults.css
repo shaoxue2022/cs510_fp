@@ -1,0 +1,70 @@
+.SearchResults {
+    background-color: white;
+    margin: 0 auto;
+    width: 700px;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 700px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.SearchItem {
+    vertical-align: top;
+    display: flex;
+    border-bottom: 1px solid rgba(0,0,0,.25);
+    width: 98.5%;
+    overflow: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    transition: 0.25s ease;
+    background-color: #ffdab9;
+}
+
+.SearchItem:hover {
+    transform: scale(1.1);
+    transition: 0.25s ease;
+    background-color: darkorange;
+}
+
+.PlayerImage {
+    width: 250px;
+}
+
+.SearchImage {
+    width: 90%;
+}
+
+.SearchInfo {
+    width: 500px;
+    text-align: left;
+}
+
+.PlayerName {
+    font-size: 24px;
+    color: black;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.PlayerStat {
+    font-size: 16px;
+    color: #cc5500;
+    margin: 10px;
+}
+
+.PlayerLink {
+    text-decoration: none;
+}
+
+.TeamImage {
+    width: 30%;
+}
+
+.TeamLogo {
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,150 @@
+.Detail {
+    width: 610px;
+    height: 810px;
+    display: grid;
+    grid-template-rows: 258px 152px;
+    margin: 0 auto;
+    margin-top: 25px;
+    border: 2px solid darkgray;
+}
+
+.DetailLogo {
+    position: absolute;
+    top: 200px;
+    left: 440px;
+}
+
+.DetailTeamLogo {
+    width: 90px;
+}
+
+.DetailArrow {
+    text-decoration: none;
+}
+
+.prev {
+    cursor: pointer;
+    position: relative;
+    padding: 10px;
+    top: 205px;
+    width: 10px;
+    height: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 2.5px 0 0 2.5px;
+    user-select: none;
+    text-decoration: none;
+  }
+  
+  .next {
+    cursor: pointer;
+    position: relative;
+    padding: 10px;
+    top: 205px;
+    width: 10px;
+    height: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 2.5px 0 0 2.5px;
+    user-select: none;
+    text-decoration: none;
+  }
+  
+  .prev:hover, .next:hover {
+    background-color: gray;
+  }
+
+  .DetailInfo {
+      display: grid;
+      grid-template-columns: 10px 268px 287px 10px;
+      grid-gap: 5px;
+      position: relative;
+      height: 100%;
+      border-bottom: 2px solid darkgray;
+} 
+
+  .DetailPlayerImage {
+    position: relative;
+    width: 250px;
+    top: 29%;
+    left: 15%;
+  }
+
+  .TeamPosition {
+    position: relative;
+    font-size: 1vw;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: white;
+  }
+
+  .DetailPlayerFirstName {
+      margin-top: 10px;
+      margin-bottom: 5px;
+      margin-left: 10px;
+      color: white;
+      font-weight: bold;
+      font-size: 2.7vw;
+  }
+  .DetailPlayerLastName {
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 2.7vw;
+}
+
+.HeightWeight {
+    position: relative;
+    font-size: 0.9vw;
+    margin-left: 15px;
+    color: white;
+}
+
+.DetailPlayerStats {
+    position: relative;
+    width: 100%;
+    height: 205px;
+    display: grid;
+    grid-template-columns: 20fr 20fr 20fr 20fr 20fr;
+    grid-template-rows: 33fr 33fr 33fr;
+}
+
+.DetailStat {
+    padding-top: 10px;
+    color: white;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid darkgray;
+}
+
+.Stat {
+    margin-top: 10px;
+    line-height: 1.25px;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.StatNumber {
+    font-size: 15px;
+    line-height: 1.25px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+.DetailSentimentGraph {
+    padding-top: 75px;
+}
+
+.DetailGraphImage {
+    height: 300px;
+    display:block;
+    margin:auto;
+}
